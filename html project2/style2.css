@@ -1,0 +1,50 @@
+*{
+	padding: 0;margin: 0;
+}
+header{background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(photo/rana2.jpg);
+	height: 500px;
+	width: 500px;
+	background-size: cover;
+	background-position: center;
+	}
+.row{max-width: 1200px;margin: auto;
+	
+}
+.row{float: right;
+	padding-top: 30px;
+}
+.row ul{
+	
+}
+.row ul li{display: inline;
+}
+.row ul li a{ text-decoration: none;
+ color: #fff;padding: 5px 20px;
+ font-size: 15px;
+ border: 1px solid #fff;
+	
+}
+.row ul li a: hover{background-color: #fff;
+color: #000;}
+.hero{position: absolute;width: 500px;
+ margin-top: 0;margin-left: 0;
+}
+.hero h1{color: #fff;font-size: 40px;
+	text-align: center;padding-top: 200px;
+}
+.button{padding-top: 25px;padding-left: 120px;
+}
+.btn{border: 1px solid #fff;
+ text-decoration: none; color: #fff;
+ padding: 5px 10px;
+
+}
+.btn-one{
+}
+.btn-two{background-color: #000;
+	
+}
+.btn-two:hover{
+	background-color: #fff;
+	color: #000;
+}
